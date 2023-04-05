@@ -1,0 +1,30 @@
+.search-box {
+  width: 412px;
+  height: 44px;
+  border: white solid 1px;
+}
+.drop-box {
+  border-radius: 1px;
+  background-color: rgb(73, 69, 69);
+  color: black;
+  height: 44px;
+}
+
+.drop-box:hover {
+  border: solid orange 2px;
+}
+
+.search-box:hover {
+  border: solid orange 2px;
+}
+
+#auto-suggest-container {
+  border: 1px solid gray;
+  height: auto;
+  width: 450px;
+  background-color: white;
+  position: absolute;
+  top: 60px;
+  right: 443px;
+  display: none;
+}

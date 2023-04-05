@@ -1,38 +1,28 @@
-.App {
-  text-align: center;
+.body {
+  font-family: "Amazon Ember", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bannerImg {
+  background-image: url("https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ffb4951f-1e0b-4eff-8e96-eee42c99711a._CR0,0,1200,628_SX507_QL70_.jpg");
+  background-size: 600px 300px;
+  background-repeat: no-repeat;
+  background-blend-mode: exclusion;
+  height: 220px;
+  /* opacity: 0.9; */
+
+  filter: drop-shadow(30rem 0rem 7rem rgba(97, 85, 99, 0.5));
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.prize-line {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  align-content: center;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.prod-card {
+  border: 1px solid rgb(241, 239, 239);
 }

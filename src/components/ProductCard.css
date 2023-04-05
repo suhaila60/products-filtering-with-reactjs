@@ -1,0 +1,31 @@
+.sponsered {
+  color: gray;
+  font-size: 13px;
+  margin: 10px;
+}
+
+.red-box {
+  background-color: #bd3a13;
+  height: 24px;
+  width: 110px;
+  color: white;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.prize-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.prod-card {
+  border: 1px solid rgb(241, 239, 239);
+}
+.card-img:hover {
+  height: 260px;
+}
