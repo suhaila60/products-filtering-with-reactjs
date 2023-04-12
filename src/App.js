@@ -24,7 +24,7 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Rayon Printed Short Kurta",
-      value: "Rayon Printed Short Kurta",
+     
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/l5e81ow0/dress/4/r/a/xxl-1651-sheetal-associates-original-imagg2rhrjgcddza.jpeg?q=70",
@@ -52,7 +52,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women's Rayon Floral Printed Straight Kurti",
-      value: "Women's Rayon Floral Printed Straight Kurti",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/6/n/r/xxl-2067664-roadster-original-imagkttm48qfqy3j.jpeg?q=70",
@@ -80,7 +79,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Regular Fit Solid Cut Away Collar Casual Shirt cotton",
-      value: "Men Regular Fit Solid Cut Away Collar Casual Shirt cotton",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/a/p/s/s-lingo-clothenic-original-imagj2wzqyvyjxpp.jpeg?q=70",
@@ -108,7 +106,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Self Design Cotton Blend Straight Kurta ",
-      value: "Women Self Design Cotton Blend Straight Kurta ",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/ke8uv0w0-0/kurta/y/q/6/m-stylish229-h-ngreenstraightkurta-m-new-stylish-original-imafuzammkbrhmjk.jpeg?q=70",
@@ -136,7 +133,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: " Men Slim Fit Printed Spread Collar Casual Shirt",
-      value: " Men Slim Fit Printed Spread Collar Casual Shirt",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/j/y/4/m-dj-line-print-valveera-original-imagjvyygwe9yvn4.jpeg?q=70",
@@ -164,7 +160,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Slim Fit Solid Sp cotton",
-      value: "Men Slim Fit Solid Sp cotton",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/x/6/q/m-kcsh-fo-1647-ma-fubar-original-imaghg9qdht3ghgn.jpeg?q=70",
@@ -192,7 +187,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Chikan Embroidery Georgette Anarkali Kurta",
-      value: "Women Chikan Embroidery Georgette Anarkali Kurta",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/i/s/h/s-apsara-fashtown-original-imagheznttnagwzg.jpeg?q=70",
@@ -220,8 +214,7 @@ function App(props) {
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
 
       description:
-        "Digital Ajanta 'Golden Collection Watches for Kid's Watches",
-      value: "Digital Ajanta 'Golden Collection Watches for Kid's Watches",
+        "Cotton Slub Check Anarkali",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/t/8/3/s-lh129-l-h-handicrafts-original-imaggzu67k68vn6w.jpeg?q=70",
@@ -249,7 +242,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Embellished Cotton Rayon Anarkali Kurta",
-      value: "Women Embellished Cotton Rayon Anarkali Kurta",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/j/1/y/3xl-410-dammode-original-imaggmg6jh6r4sge.jpeg?q=70",
@@ -277,7 +269,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Printed Round Neck Silver, Black T-Shirt",
-      value: "Men Printed Round Neck Silver, Black T-Shirt",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/t/j/xxl-hf-tshirt-try-this-original-imagm5uwnrshyh5b.jpeg?q=70",
@@ -304,7 +295,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Printed Viscose Rayon A-line Kurta",
-      value: "Women Printed Viscose Rayon A-line Kurta",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/l2jcccw0/kurta/x/l/h/s-k1070-priyashi-original-imagdvffdtvzygrs.jpeg?q=70",
@@ -332,7 +322,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Solid Round Neck Green T-Shirt cotton",
-      value: "Men Solid Round Neck Green T-Shirt cotton",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/d/h/x/m-723-10-ftx-original-imagh3hsje4dxhcb.jpeg?q=70",
@@ -360,7 +349,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Checkered Cotton Rayon Kaftan Kurta ",
-      value: "Women Checkered Cotton Rayon Kaftan Kurta ",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/l4ssfww0/kurta/6/p/g/xxl-mf22kaftan09b-mialo-fashion-original-imagfm39dpzjtgw5.jpeg?q=70",
@@ -388,7 +376,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Regular Fit Printed Spread Collar Casual Shirts",
-      value: "Men Regular Fit Printed Spread Collar Casual Shirts",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/l2krs7k0/shirt/7/f/t/m-trdshirtful-sh29-tripr-original-imagdwfmwa5xyuzw.jpeg?q=70",
@@ -418,7 +405,6 @@ function App(props) {
 
       description:
         "Women Printed Cotton Blend Anarkali Kurta With Attached...s",
-      value: "Women Printed Cotton Blend Anarkali Kurta With Attached...s",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/o/x/4/4xl-bkgreen-baba-kurti-original-imagbxwtc3mh9xga-bb.jpeg?q=70",
@@ -449,7 +435,6 @@ function App(props) {
 
       description:
         "Men's Loose Regular Fit Half Sleeves T-Shirt Men Printe... ",
-      value: "Men's Loose Regular Fit Half Sleeves T-Shirt Men Printe... ",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/l2dmky80/t-shirt/t/z/v/3xl-t339hs-blyl-new-eyebogler-original-imagdqhzxgxhrfqh.jpeg?q=70",
@@ -476,7 +461,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Checkered Cotton Rayon Kaftan Kurta ",
-      value: "Women Checkered Cotton Rayon Kaftan Kurta ",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/kirr24w0-0/dress/z/u/z/m-md142-oomph-original-imafyhyh7afjrhah.jpeg?q=70",
@@ -504,7 +488,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Regular Fit Checkered Spread Collar Casual Shirt",
-      value: "Men Regular Fit Checkered Spread Collar Casual Shirt",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/kyg5zm80/shirt/w/e/e/xl-ts-shirt1140-tanip-original-imagazaecakjzhcg.jpeg?q=70",
@@ -532,7 +515,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Women Solid Viscose Rayon Straight Kurta",
-      value: "Women Solid Viscose Rayon Straight Kurta",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/ksuowi80/kurta/1/i/f/xl-rf-184-black-new4u-original-imag6bn86xzkzasb.jpeg?q=70",
@@ -561,7 +543,6 @@ function App(props) {
       sponsImg:
         "https://cdn4.iconfinder.com/data/icons/gray-toolbar-8/512/xxx019-512.png",
       description: "Men Printed Hooded Neck Red, Black T-Shirt ",
-      value: "Men Printed Hooded Neck Red, Black T-Shirt ",
 
       imageUrl:
         "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/o/e/j/m-all-war-one-nb-nicky-boy-original-imagjz84ggtf8dmx.jpeg?q=70",
